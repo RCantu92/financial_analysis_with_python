@@ -1,6 +1,4 @@
-# Import Path from pathlib
 from pathlib import Path
-# Import csv
 import csv
 
 # Set csv path to a variable
